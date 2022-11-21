@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Ecommerce Concept</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="error_network_fail">Network Error</string>
+
+    <string name="text_geo">Zihuatanejo, Gro</string>
+    <string name="text_category">Select Category</string>
+    <string name="text_hot_sales">Hot sales</string>
+    <string name="text_best_seller">Best Seller</string>
+    <string name="text_filter_options">Filter options</string>
+    <string name="text_filter_brand">Brand</string>
+    <string name="text_filter_price">Price</string>
+    <string name="text_filter_size">Size</string>
+    <string name="text_product_details">Product Details</string>
+    <string name="text_select_color_and_capacity">Select color and capacity</string>
+    <string name="text_add_address">Add address</string>
+    <string name="text_my_cart">My Cart</string>
+    <string name="text_total">Total</string>
+    <string name="text_delivery">Delivery</string>
+
+    <string name="button_view_all">view all</string>
+    <string name="button_see_more">see more</string>
+    <string name="button_phone_category">Phones</string>
+    <string name="button_computer_category">Computer</string>
+    <string name="button_health_category">Health</string>
+    <string name="button_books_category">Books</string>
+    <string name="button_buy_now">Buy now!</string>
+    <string name="button_explorer">Explorer</string>
+    <string name="button_done">Done</string>
+    <string name="button_add_to_cart">Add to Cart</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="button_minus">-</string>
+    <string name="button_plus">+</string>
+
+    <string name="hint_search">Search</string>
+
+    <string name="tab_shop">Shop</string>
+    <string name="tab_details">Details</string>
+    <string name="tab_features">Features</string>
+
+    <string-array name="strings_filter_names">
+        <item>Samsung</item>
+        <item>Xiaomi</item>
+        <item>Motorola</item>
+    </string-array>
+    <string-array name="strings_filter_prices">
+        <item>$0-$300</item>
+        <item>$300-$500</item>
+        <item>$500-$1000</item>
+        <item>$1000-$2000</item>
+        <item>$2000-$5000</item>
+        <item>$5000-$10000</item>
+    </string-array>
+    <string-array name="strings_filter_size">
+        <item>4.5 to 5.5 inches</item>
+    </string-array>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_bottom_menu.xml" value="0.1465" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_button_close_blue.xml" value="0.1465" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_button_done.xml" value="0.1465" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_count_selector.xml" value="0.105" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_filters.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_oval_colored.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_small_white.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_spinner.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_tab_white.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/background_white.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/foreground_stricketrough.xml" value="0.1055" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_books_category.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_books_category_active.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_books_category_idle.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_cart.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_checked.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_computer_category.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_computer_category_active.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_computer_category_idle.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_drop.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_favorite.xml" value="0.1055" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_health_category.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_health_category_active.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_health_category_idle.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_liked.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_liked_active.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_not_favorite.xml" value="0.1055" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_phone_category.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_phone_category_active.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_phone_category_idle.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_point_explorer.xml" value="0.1465" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_qr_button.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_ram_image.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_rating_empty.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_sd_image.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_search_background.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/ic_splash_text.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/layer_list_ratingbar.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/selector_ratingbar_empty.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/selector_ratingbar_filled.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/small_white_backgroud.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/splash_background.xml" value="0.6" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/splash_ellipse.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/drawable/splash_icon.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/font/mark_pro.xml" value="0.1984375" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/activity_details.xml" value="0.2" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/activity_splash.xml" value="0.17391304347826086" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/fragment_best_seller.xml" value="0.264" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/fragment_hot_sale.xml" value="0.264" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/item_hot.xml" value="0.536" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/layout_cart_element.xml" value="0.264" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/layout_details_photos.xml" value="0.2" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/layout_filter_spinner_item.xml" value="0.6" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/layout_hot_sale.xml" value="0.1" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/layout/layout_recycler_item.xml" value="0.17391304347826086" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1185" />
+        <entry key="..\:/Sources/GitHub projects/Ecommerce-Concept/EcommerceConcept/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

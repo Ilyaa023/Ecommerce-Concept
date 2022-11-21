@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EcommerceConcept" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/light_background</item>
+        <item name="colorPrimaryVariant">@color/light_background</item>
+        <item name="colorOnPrimary">@color/orange</item>
+        <item name="colorSecondary">@color/dark_blue</item>
+        <item name="colorSecondaryVariant">@color/dark_blue</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <item name="fullscreenBackgroundColor">?attr/colorPrimary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColorPrimary">?attr/colorOnPrimary</item>
+        <item name="android:textColorSecondary">?attr/colorOnSecondary</item>
+    </style>
+
+    <style name="ThemeOverlay.EcommerceConcept.Splash" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/dark_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="fullscreenBackgroundColor">@color/dark_blue</item>
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <style name="ThemeOverlay.EcommerceConcept.Main" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:statusBarColor">@color/light_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:background">@color/light_background</item>
+    </style>
+
+    <style name="CustomRatingbar" parent="Widget.AppCompat.RatingBar">
+        <item name="android:progressDrawable">@drawable/layer_list_ratingbar</item>
+    </style>
+
+    <style name="ThemeOverlay.EcommerceConcept.Main.CustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="colorAccent">@color/orange</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="tabBackground">@drawable/background_tab_white</item>
+    </style>
+</resources>
